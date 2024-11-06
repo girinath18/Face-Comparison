@@ -1,0 +1,3 @@
+[submodule "face_comparision"]
+	path = face_comparision
+	url = https://github.com/girinath18/Face-Comparison.git
