@@ -47,12 +47,12 @@ pytz==2024.2
 requests==2.32.3
 retina-face==0.0.17
 rich==13.9.4
-setuptools==75.5.0
+setuptools==75.6.0
 six==1.16.0
 soupsieve==2.6
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-pip install tensorflow==2.18.0 --no-deps
+tensorflow==2.18.0
 tensorflow_intel==2.18.0
 termcolor==2.5.0
 tf_keras==2.18.0
